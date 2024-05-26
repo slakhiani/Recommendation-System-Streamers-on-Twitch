@@ -11,5 +11,5 @@ Item-item Collaborative Filtering: Users' following status of the top 100 stream
 
 Hybrid Model: The hybrid model combined the content-based and collaboritive filtering models in an unweighted format.
 
-Recall was used to evaluate the 3 models. The content-based model did not perform well on its own, whereas the collaborative filtering model made better recommendations. The hybrid model further improves the collaborative filtering model by using information on both the streamers and watchers.
+Recall was used to evaluate the 3 models. The confusion matrices and recalls are below. The content-based model did not perform well on its own, whereas the collaborative filtering model made better recommendations. The hybrid model further improves the collaborative filtering model by using information on both the streamers and watchers.
 <img width="975" alt="Screenshot 2024-05-26 at 5 37 24 PM" src="https://github.com/slakhiani/Recommendation-System-Streamers-on-Twitch/assets/135447183/10b37db8-de16-44fd-a035-5c64a55f72d3">
